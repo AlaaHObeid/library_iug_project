@@ -1,4 +1,4 @@
-📚 IUG Library Website
+# 📚 IUG Library Website
 A university library website that allows students and staff to explore, download, comment on books, view services, share donations, and more. Designed with a responsive layout and an admin dashboard for easy content management.
 
 🔧 Features
