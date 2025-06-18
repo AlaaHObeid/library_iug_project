@@ -54,8 +54,11 @@
             <div class="row">
                 <div class="col-md-6 pb-5">
                     <!-- Updated iframe for Google Maps link -->
-                    <iframe style="width: 100%; height: 443px;" src="https://maps.app.goo.gl/embed/UygZoT4PgYg9kHRr7?enablejsapi=1"
-                        frameborder="0" allowfullscreen></iframe>
+                    <iframe style="width: 100%; height: 443px; border:0;" 
+                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3401.403315939283!2d34.44342192467606!3d31.5130809742173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14fd7fe4eea37a45%3A0x2f4dd6e9eaea1466!2z2KfZhNmF2YPYqtio2Kkg2KfZhNmF2LHZg9iy2YrYqQ!5e0!3m2!1sar!2s!4v1750241949380!5m2!1sar!2s" 
+                     allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+
                 </div>
                 <div class="col-md-6 pb-5">
                     <div class="contact-form">
