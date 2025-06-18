@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<?php
+// تعيين اللغة حسب الرابط أو استخدام "en" كلغة افتراضية
+$lang = isset($_GET['langID']) ? $_GET['langID'] : 'en';
+?>
+
 <?php include 'includes/head.php'; ?>
 
 
