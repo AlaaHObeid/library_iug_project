@@ -1,3 +1,6 @@
+
+
+
 <?php
 if ($lang === 'ar') {
     $lang_attr = 'ar';
